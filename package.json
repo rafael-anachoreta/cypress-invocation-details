@@ -1,0 +1,13 @@
+{
+  "name": "cypress-invocation-details",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rafael-anachoreta/cypress-invocation-details.git",
+  "scripts": {
+    "cypress:run": "yarn cypress run --reporter ./my-reporter"
+  },
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "mocha": "^10.0.0"
+  }
+}
