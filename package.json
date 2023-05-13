@@ -7,7 +7,7 @@
     "cypress:run": "yarn cypress run --reporter ./my-reporter"
   },
   "devDependencies": {
-    "cypress": "^10.3.0",
+    "cypress": "^12.12.0",
     "mocha": "^10.0.0"
   }
 }
